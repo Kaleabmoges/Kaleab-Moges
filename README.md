@@ -48,4 +48,4 @@ If you have any feedback, please reach out at Kaleabmoges21@gmail.com
 <br>
 ## Support
 
-For support, email pankajbaliyan90@gmail.com or join our Slack channel.
+For support, email Kaleabmoges21@gmail.com and Subscribe my Youtube channel.
