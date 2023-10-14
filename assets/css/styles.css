@@ -388,11 +388,13 @@ img {
   justify-self: center;
   align-self: center;
   background: var(--first-color-second);
+  height: 22rem;
 }
 
 .about__description {
   text-align: center;
   margin-bottom: var(--mb-2-5);
+  justify-content: center;
 }
 
 .about__container {
@@ -591,6 +593,10 @@ img {
   display: inline-block;
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-1);
+}
+
+.qualification__container {
+  max-width: 900px;
 }
 
 .qualification__calendar {
