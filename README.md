@@ -43,7 +43,7 @@ If you have any feedback, please reach out at Kaleabmoges21@gmail.com
 
 ## 🔗 Links
 
-[<img src="https://www.moirae.co.uk/media/rr1bnphw/linkedin-photo.jpg?anchor=center&mode=crop&width=1060&height=607&rnd=133041730111100000" width="150" style="background-color:white;padding:5px;border-radius:5px">](https://www.linkedin.com/in/pankaj-kumar-90/)
+[<img src="https://www.moirae.co.uk/media/rr1bnphw/linkedin-photo.jpg?anchor=center&mode=crop&width=1060&height=607&rnd=133041730111100000" width="150" style="background-color:white;padding:5px;border-radius:5px">](https://www.linkedin.com/in/kaleabmoges/)
 
 <br>
 ## Support
