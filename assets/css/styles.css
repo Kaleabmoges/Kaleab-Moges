@@ -499,8 +499,12 @@ img {
   width: 90%;
 }
 
-.skills__graphics {
-  width: 80%;
+.skills__video__editing {
+  width: 75%;
+}
+
+.skills__wordpress {
+  width: 79%;
 }
 
 .skills__linux {
@@ -508,6 +512,9 @@ img {
 }
 .skills__microsoft {
   width: 79%;
+}
+.skills__graphics {
+  width: 72%;
 }
 
 .skills__website {
