@@ -277,7 +277,7 @@ img {
 
 .home__blob {
   width: 200px;
-  fill: var(--first-color);
+  fill: black;
 }
 
 .home__blob-img {
